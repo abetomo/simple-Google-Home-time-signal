@@ -1,0 +1,22 @@
+{
+  "name": "@abetomo/simple-google-home-time-signal",
+  "version": "0.0.1",
+  "description": "Simple Google Home time signal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abetomo/simple-Google-Home-time-signal.git"
+  },
+  "author": "abetomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abetomo/simple-Google-Home-time-signal/issues"
+  },
+  "homepage": "https://github.com/abetomo/simple-Google-Home-time-signal#readme",
+  "dependencies": {
+    "google-home-notifier": "^1.2.0"
+  }
+}
