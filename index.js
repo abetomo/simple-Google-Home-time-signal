@@ -1,6 +1,6 @@
 'use strict'
 
-const googlehome = require('google-home-notifier');
+const googlehome = require('google-home-notifier')
 
 const deviceName = 'Google Home'
 const ip = process.argv[2] || '192.168.1.20'
