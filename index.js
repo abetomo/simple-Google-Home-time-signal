@@ -12,7 +12,7 @@ console.log(text)
 const language = 'ja'
 
 googlehome.ip(ip, language)
-googlehome.device(deviceName,language)
+googlehome.device(deviceName, language)
 googlehome.notify(text, (notifyRes) => {
   console.log(notifyRes)
 })
