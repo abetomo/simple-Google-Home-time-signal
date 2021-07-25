@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/abetomo/simple-Google-Home-time-signal#readme",
   "dependencies": {
-    "google-home-notifier": "^1.2.0"
+    "google-home-push": "^1.2.0"
   }
 }
